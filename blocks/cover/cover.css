@@ -1,23 +1,4 @@
-.cover:hover {
-    opacity: 0.8;
-}
-
-@media screen and (max-width: 1279px) {
-    .cover {
-        min-height: 640px;
-    }
-}
-
-@media screen and (max-width: 1023px) {
-    .cover {
-        min-height: 480px;
-        margin-top: 90px;
-    }
-}
-
-@media screen and (max-width: 767px) {
-    .cover {
-        margin-top: 66px;
-        min-height: 200px;
-    }
-}
+.cover {
+    margin: 0 auto;
+    max-width: 100%;
+  }
