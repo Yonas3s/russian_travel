@@ -3,7 +3,7 @@
 
 Третий проект курса "Яндекс.Практикум" о путешествиях по России. Адаптивный сайт
 
-Ссылка на Github Pages: https://yonas3s.github.io/russian_travel.github.io/
+Ссылка на Github Pages: https://yonas3s.github.io/russian_travel/
 
 **Используемые технологии:**
 1. Языки HTML и CSS
